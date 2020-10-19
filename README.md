@@ -4,7 +4,7 @@
 1. Multimedia
 2. Grafika rastrowa vs wektorowa
 3. GIMP - warstwy i animacje
-4. Formaty
+4. Formaty (JPEG,GIF,PNG)
 5. <video/audio>
 6. <figure>
 ```
