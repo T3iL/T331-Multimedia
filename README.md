@@ -1,4 +1,4 @@
-# (2020.10.12/19) T407-MultiMedia
+# (2020.10.19/20) T407-MultiMedia
 ## -------INFO
 ```
 1. Multimedia
