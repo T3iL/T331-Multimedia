@@ -8,7 +8,7 @@
 5. <video/audio>
 6. <figure>
 7. <canvas>
-8. <svg>
+8. <svg> inkscape
 ```
 
 ### --------ZAD
