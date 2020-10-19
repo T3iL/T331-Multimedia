@@ -7,6 +7,8 @@
 4. Formaty (JPEG,GIF,PNG)
 5. <video/audio>
 6. <figure>
+7. <canvas>
+8. <svg>
 ```
 
 ### --------ZAD
