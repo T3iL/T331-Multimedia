@@ -13,7 +13,9 @@
 
 ### --------ZAD
 ```
-T40701 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop
+T30701 - Utwórz animowany spinner przy pomocy CSS (obrót)
+
+T30701 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop
 ```
 
 ### --------Links
