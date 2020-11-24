@@ -24,7 +24,7 @@ T30703 - Przygotuj animowany w CSS spinner (nieskończony obrót)
 ### --------Links
 https://github.com/T4aiL/T407-MultiMedia
 
-GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
+GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
