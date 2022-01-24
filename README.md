@@ -1,4 +1,4 @@
-# T307-MultiMedia
+# T331-MultiMedia
 ## -------INFO
 ```
 1. Multimedia
@@ -27,7 +27,7 @@ T30703 - Przygotuj animowany w CSS spinner (nieskończony obrót)
 ```
 
 ### --------Links
-https://github.com/T4aiL/T407-MultiMedia
+https://github.com/T4aiL/T331-MultiMedia
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
 
