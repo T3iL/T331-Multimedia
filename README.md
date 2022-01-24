@@ -16,14 +16,16 @@
 
 ### --------ZAD
 ```
-T30701 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetestuj zachowanie strony. Plik z filmem pobierz z repozytorium video (np CDA).
+T33101 - Wstaw obraz na stronie internetowej. Przetestuj zachowanie przezroczystości w plikach graficznych. Czy obszary przezroczyste są aktywne (można n nie kliknąć wywołując zdarzenie)
 
-T30702 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop (np z Fontawesome)
+T33102 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetestuj zachowanie strony. Plik z filmem pobierz z repozytorium video (np CDA).
 
-T30703 - Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
+T33103 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop (np z Fontawesome)
+
+T33104 - Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
 Umieść tytuł i podtytuł. Zaciemniaj video po najechaniu myszą na tytuł. 
 
-T30703 - Przygotuj animowany w CSS spinner (nieskończony obrót)
+T33105 - Przygotuj animowany w CSS spinner (nieskończony obrót)
 ```
 
 ### --------Links
