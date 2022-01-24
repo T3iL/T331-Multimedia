@@ -28,20 +28,26 @@
 ```
 T33101 - Wstaw obraz na stronie internetowej. Przetestuj zachowanie przezroczystości w plikach graficznych. Czy obszary przezroczyste są aktywne (można nie kliknąć wywołując zdarzenie)
 
-T33102 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetestuj zachowanie strony. Plik z filmem pobierz z repozytorium video (np CDA).
+T33102 - Zastosuj mapy odsyłączy do wyświetlania informacji o częściach ciała na zdjęciu postaci.
 
-T33103 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop (np z Fontawesome)
+T33103 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetestuj zachowanie strony. Plik z filmem pobierz z repozytorium video (np CDA).
 
-T33104 - Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
+T33104 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop (np z Fontawesome)
+
+T33105 - Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
 Umieść tytuł i podtytuł. Zaciemniaj video po najechaniu myszą na tytuł. 
 
-T33105 - Przygotuj animowany w CSS spinner (nieskończony obrót)
+T33106 - Przygotuj animowany w CSS spinner (nieskończony obrót)
 ```
 
 ### --------Links
 https://github.com/T4aiL/T331-MultiMedia
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1OqTcjwr_qAdTPO-dThxUOd3ooTTOlzgp?usp=sharing
+
+### --------Tools-----
+https://www.photopea.com/
+
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
