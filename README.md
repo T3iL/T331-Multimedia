@@ -14,6 +14,16 @@
 11. <svg>
 ```
 
+```css
+.mask1 {
+  -webkit-mask-image: url(w3logo.png);
+  mask-image: url(w3logo.png);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+```
+
+
 ### --------ZAD
 ```
 T33101 - Wstaw obraz na stronie internetowej. Przetestuj zachowanie przezroczystości w plikach graficznych. Czy obszary przezroczyste są aktywne (można nie kliknąć wywołując zdarzenie)
