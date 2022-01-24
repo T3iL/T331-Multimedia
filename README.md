@@ -28,7 +28,7 @@
 ```
 T33101 - Wstaw obraz na stronie internetowej. Przetestuj zachowanie przezroczystości w plikach graficznych. Czy obszary przezroczyste są aktywne (można nie kliknąć wywołując zdarzenie)
 
-T33102 - Zastosuj mapy odsyłączy do wyświetlania informacji o częściach ciała na zdjęciu postaci. Informacje wyświetl w elemencie html poniżej obrazu.
+T33102 - Zastosuj mapy odsyłączy do wyświetlania tłumaczeń na język angielski nazw części ciała na zdjęciu postaci. Informacje wyświetl w elemencie html poniżej obrazu.
 
 T33103 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetestuj zachowanie strony. Plik z filmem pobierz z repozytorium video (np CDA).
 
