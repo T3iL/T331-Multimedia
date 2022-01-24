@@ -16,7 +16,7 @@
 
 ### --------ZAD
 ```
-T33101 - Wstaw obraz na stronie internetowej. Przetestuj zachowanie przezroczystości w plikach graficznych. Czy obszary przezroczyste są aktywne (można n nie kliknąć wywołując zdarzenie)
+T33101 - Wstaw obraz na stronie internetowej. Przetestuj zachowanie przezroczystości w plikach graficznych. Czy obszary przezroczyste są aktywne (można nie kliknąć wywołując zdarzenie)
 
 T33102 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetestuj zachowanie strony. Plik z filmem pobierz z repozytorium video (np CDA).
 
