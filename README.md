@@ -5,8 +5,8 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?C60DFFE8CCAE054B2539840B3
 ## -------INFO
 ```
 1. Multimedia
-2. Grafika rastrowa vs wektorowa
-3. GIMP - warstwy i animacje
+2. Grafika rastrowa vs wektorowa (piksele vs obiekty - punkty i krzywe)
+3. GIMP - warstwy i animacje, Inkscape (Adobe Photoshop, Adobe Illustrator)
 4. Formaty (JPEG,GIF,PNG) <img><map><area>
 5. <video/audio> (WAV, MIDI, AVI, MP3, MPEG, QuickTime, WMV, Ogg, WebM, MPEG-4/MP4)
 6. <figure><figcaption>
