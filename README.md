@@ -37,6 +37,10 @@ T33104 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosu
 
 https://drive.google.com/drive/folders/11TOAVA_ZqajiUrN2dyoQ2NLKSk6nbjtH?usp=sharing
 
+ZADANIE DODATKOWE:
+-Play "odmute'owuje" utwór.
+-Stworzyć analogiczny odtwarzacz video
+
 T33105 - Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
 Umieść tytuł i podtytuł. Zaciemniaj video po najechaniu myszą na tytuł. 
 
