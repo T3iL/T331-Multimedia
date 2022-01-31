@@ -35,7 +35,7 @@ T33102 - Zastosuj mapy odsyłączy do wyświetlania tłumaczeń na język angiel
 
 T33103 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetestuj zachowanie strony. Plik z filmem pobierz z repozytorium video (np CDA).
 
-T33104 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop (np z Fontawesome)
+T33104 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop (np z Fontawesome) [źródło muzyki: https://pixabay.com/music/]
 
 T33105 - Umieść zapętlone wideo jako pełnoekranowe responsywne tło strony.
 Umieść tytuł i podtytuł. Zaciemniaj video po najechaniu myszą na tytuł. 
