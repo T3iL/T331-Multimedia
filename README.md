@@ -35,8 +35,6 @@ T33103 - umieść na stronie odnośnik do filmu w formacie MP4 lub avi i przetes
 
 T33104 - Przygotuj prosty odtwarzacz audio odtwarzający kilka utworów. Zastosuj ikony Play/stop (np z Fontawesome) [źródło muzyki: https://pixabay.com/music/]
 
-https://drive.google.com/drive/folders/11TOAVA_ZqajiUrN2dyoQ2NLKSk6nbjtH?usp=sharing
-
 ZADANIE DODATKOWE:
 -Play "odmute'owuje" utwór.
 -Stworzyć analogiczny odtwarzacz video
