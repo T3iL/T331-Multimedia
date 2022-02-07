@@ -47,7 +47,7 @@ Umieść tytuł i podtytuł. Zaciemniaj video po najechaniu myszą na tytuł.
 T33106 - Przygotuj animowany w CSS spinner (nieskończony obrót)
 ```
 
-![Spinner](spinnerGlow.PNG)
+![Spinner](spinnerGlow.png)
 
 ### --------Links
 https://github.com/T4aiL/T331-MultiMedia
